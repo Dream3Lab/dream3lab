@@ -1,1 +1,1 @@
-Sitemap: https://dream3lab.github.io/dream3lab/sitemap.xml
+Sitemap: /dream3lab/sitemap.xml
